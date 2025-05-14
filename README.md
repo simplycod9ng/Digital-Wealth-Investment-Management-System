@@ -119,7 +119,3 @@ The platform architecture and documentation are built with flexibility in mind. 
 ## Conclusion
 
 The **Digital Wealth & Investment Management System** delivers unified solution for managing client portfolios and fund operations in the modern financial ecosystem. By combining scalable technology, regulatory readiness, and omni-channel experiences, it empowers financial institutions to serve high-net-worth clients and institutional investors with agility, transparency, and control.
-
----
-
-> _For developers, analysts, and stakeholders: This README offers a shared reference to align development, deployment, and support for this system._  
